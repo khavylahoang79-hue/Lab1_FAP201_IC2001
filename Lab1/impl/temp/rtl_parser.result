@@ -1,0 +1,18 @@
+[
+ {
+  "InstFile" : "D:/Ki4/FAP/Lab1/src/Lab1.v",
+  "InstLine" : 1,
+  "InstName" : "Lab1",
+  "ModuleFile" : "D:/Ki4/FAP/Lab1/src/Lab1.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "Lab1"
+ },
+ {
+  "InstFile" : "D:/Ki4/FAP/Lab1/src/Lab1.vhd",
+  "InstLine" : 4,
+  "InstName" : "Lab1",
+  "ModuleFile" : "D:/Ki4/FAP/Lab1/src/Lab1.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "Lab1"
+ }
+]
